@@ -27,3 +27,11 @@
 	Solution-:
      		run ubuntu terminal - python3 solution3.py
 
+4. MOUNTAINEER ARRAY --Problem:
+
+	Given an array A of integers, return true if and only if it is a valid mountain array.
+	Recall that A is a mountain array if and only if:
+	
+	Solution-:
+		run ubuntu terminal - python3 solution4.py
+
